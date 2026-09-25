@@ -1,0 +1,22 @@
+Focos da atividade: Tkinter,
+Site escolhido: catologo de midias
+
+requisitos funcionais:
+1- Cadastro eregistro deacordo com o tema
+2- Listar os registros em componente adequado, como Treeview ou Listbox
+3- pesquisa ou filtro dos registros
+4- permitir selecionar e editar um registro existente
+5- Permitir excluir um registro somente após a confirmação
+6- Permitir limpar o formulário e iniciar o Cadastro
+7- Manter os dados disponiveis deois que o programa for encerrado
+8- Exibir resumo ou indicador coerente com o tema, como total, saldo, média ou quantidade.
+
+requisitos nao funcionais:
+1- Usar Tkinter e, quando adequado, componentes ttj.
+2- apresentar título, rotulod, ordem visual e mensagens compreensiveis
+3- Validar campo obrigatorios, formatos, tipos e limites antes de salvar.
+4- Tratar erros previsiveis sem encerrar inesperadamente o aplicativo.
+5- Organizar o código em funções, módulos ou classes com nomes claros
+6- Solicitar confimação antes de excluir dados e antes de sair com alterações pendentes
+
+componentes minimos:
